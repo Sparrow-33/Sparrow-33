@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS ,javascript, & php.
 - 📫 How to reach me : \
                       
-                      - linkedin :@haitham-elhaoudi-2001 \
+                      -[Linkedin](@haitham-elhaoudi-2001)
                       - Email     : elhaoudihaytham2001@gmail.com\
                       - h.elhaoudi@student.youcode.ma
 
