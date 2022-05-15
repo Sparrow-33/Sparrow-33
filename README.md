@@ -2,6 +2,8 @@
 > 
 > Full stack web dev
 >
+>currently a student at [Youcode](youcode.ma)
+>
 > 📫 How to reach me : 
 >> Linkedin @haitham-elhaoudi-2001
 >
